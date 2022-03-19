@@ -70,7 +70,11 @@ We are going to use a sample schema given to use by MySQL.
 
 1. What is the relationship between the "actor" and "film_actor" tables?
 
+actor_id
+
 2. What does the blue diamond next to the "last_update" column on the "inventory" table represent?
+
+NOT NULL for a filled diamond, but  its looks like a blue lined filled diamond, its hard to tell, so in that case it's a NOT NULL simple attribute
 
 3. How many foreign keys does the "payments" table have? How can you tell?
 
@@ -79,3 +83,10 @@ We are going to use a sample schema given to use by MySQL.
 1. Take a screenshot of the ER diagram you created and name it "wk6_er_diagram"
 
 2. Copy the screenshot to this directory and upload it (git push) along with this README
+
+
+
+
+![Screenshot (18)](https://user-images.githubusercontent.com/90695804/159137163-0ef893b4-2edd-47d3-a0b4-5f6a6ef8f968.png)
+
+![Screenshot (19)](https://user-images.githubusercontent.com/90695804/159137171-f78eb50e-e04c-402b-a66b-543dd5e4db83.png)
