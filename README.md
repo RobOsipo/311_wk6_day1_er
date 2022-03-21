@@ -74,7 +74,8 @@ actor_id
 
 2. What does the blue diamond next to the "last_update" column on the "inventory" table represent?
 
-NOT NULL for a filled diamond, but  its looks like a blue lined filled diamond, its hard to tell, so in that case it's a NOT NULL simple attribute
+NOT NULL for a blue filled diamond, but  its almost looks like a blue lined filled diamond, its hard for me to tell with such a small icon, so in that case it would 
+be a NOT NULL simple attribute
 
 3. How many foreign keys does the "payments" table have? How can you tell?
 
