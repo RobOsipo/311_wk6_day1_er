@@ -78,6 +78,8 @@ NOT NULL for a filled diamond, but  its looks like a blue lined filled diamond, 
 
 3. How many foreign keys does the "payments" table have? How can you tell?
 
+It has 0 foriegn keys, I can tell becuase the only color key on the payments table is yellow, which is a Primary Key, there are no (part of/partial) foreign keys either
+
 ##### ER Diagram upload
 
 1. Take a screenshot of the ER diagram you created and name it "wk6_er_diagram"
